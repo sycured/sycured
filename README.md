@@ -3,7 +3,7 @@ Hi, I'm sycured.
 
 
 ## How I work
-🔍 I'm myself, natural and looking about clear and up-to-date doc
+🔍 I'm myself, natural and looking about clear and up-to-date doc  
 💝 sharing is caring
 
 
