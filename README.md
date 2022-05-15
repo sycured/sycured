@@ -1,7 +1,7 @@
 # Hi, I'm sycured 👋
 
-![my GitHub Stats](https://github-readme-stats.vercel.app/api?username=sycured&count_private=true&show_icons=true&theme=tokyonight)
-![my Most Used Language on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sycured&layout=compact&langs_count=8&show_icons=true&theme=tokyonight)
+![my GitHub Stats](https://github-readme-stats.vercel.app/api?username=sycured&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![my Most Used Language on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=sycured&theme=tokyonight&langs_count=8&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## How I work
 🔍 I'm myself, natural and looking about clear and up-to-date doc  
@@ -9,9 +9,10 @@
 
 
 ## 📫 How to reach me
-[![Telegram](https://img.shields.io/badge/Join_me_on-my_blog-black?style=flat-square&logo=google-chrome)](https://sycured.com)
+[![Blog](https://img.shields.io/badge/Join_me_on-my_blog-black?style=flat-square&logo=google-chrome)](https://sycured.com)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/108199320587374276?domain=https%3A%2F%2Fmastodon.technology&style=social)
 [![Telegram](https://img.shields.io/badge/Join_me_on-Telegram-black?style=flat-square&logo=telegram)](https://t.me/sycured)
-[![Telegram](https://img.shields.io/badge/Join_me_on-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/sycured)
+[![Twitter](https://img.shields.io/badge/Join_me_on-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/sycured)
 
 ## ⚡ Technology Stack (partial):
 
