@@ -12,7 +12,6 @@
 [![Blog](https://img.shields.io/badge/Join_me_on-my_blog-black?style=flat-square&logo=google-chrome)](https://sycured.com)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/108199320587374276?domain=https%3A%2F%2Fmastodon.technology&style=social)
 [![Telegram](https://img.shields.io/badge/Join_me_on-Telegram-black?style=flat-square&logo=telegram)](https://t.me/sycured)
-[![Twitter](https://img.shields.io/badge/Join_me_on-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/sycured)
 
 ## ⚡ Technology Stack (partial):
 
@@ -47,8 +46,6 @@
 
 ### Languages
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=Haskell)
-![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
@@ -60,5 +57,4 @@
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/-RHEL-black?style=flat-square&logo=red-hat)
 
 ### VCS
-![Fossil](https://img.shields.io/badge/-Fossil-black?style=flat-square&logo=fossil)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
