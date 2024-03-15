@@ -1,10 +1,10 @@
 # Hi, I'm sycured 👋
 
-![my GitHub Stats](https://github-readme-stats-sycured.vercel.app//api?username=sycured&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![my Most Used Language on GitHub](https://github-readme-stats-sycured.vercel.app/api/top-langs/?username=sycured&theme=tokyonight&langs_count=8&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
+![my GitHub Stats]([https://github-readme-stats-sycured.vercel.app//api?username=sycured&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=sycured&show_icons=true&theme=tokyonight))
+![my Most Used Language on GitHub]([https://github-readme-stats-sycured.vercel.app/api/top-langs/?username=sycured&theme=tokyonight&langs_count=8&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=sycured&layout=compact&theme=tokyonight))
 
 ## How I work
-🔍 I'm myself, natural and looking about clear and up-to-date doc  
+🔍 I'm myself, natural
 💝 sharing is caring
 
 
@@ -25,8 +25,6 @@
 ![CloudFlare](https://img.shields.io/badge/-CloudFlare-black?style=flat-square&logo=cloudflare&logoColor=white)
 ### CI
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis_CI-black?style=flat-square&logo=travis-ci&logoColor=white)
-
 
 ### Cloud
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-black?style=flat-square&logo=amazon-aws)
@@ -54,7 +52,6 @@
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 ![openSuse](https://img.shields.io/badge/-openSuse-black?style=flat-square&logo=opensuse&logoColor=white)
 ![Oracle Linux](https://img.shields.io/badge/-Oracle_Linux-black?style=flat-square&logo=oracle)
-![Red Hat Enterprise Linux](https://img.shields.io/badge/-RHEL-black?style=flat-square&logo=red-hat)
 
 ### VCS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
