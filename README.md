@@ -1,7 +1,7 @@
 # Hi, I'm sycured 👋
 
-![my GitHub Stats]([https://github-readme-stats-sycured.vercel.app//api?username=sycured&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=sycured&show_icons=true&theme=tokyonight))
-![my Most Used Language on GitHub]([https://github-readme-stats-sycured.vercel.app/api/top-langs/?username=sycured&theme=tokyonight&langs_count=8&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=sycured&layout=compact&theme=tokyonight))
+![my GitHub Stats](https://github-readme-stats-sycured.vercel.app//api?username=sycured&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![my Most Used Language on GitHub](https://github-readme-stats-sycured.vercel.app/api/top-langs/?username=sycured&theme=tokyonight&langs_count=8&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## How I work
 🔍 I'm myself, natural
